@@ -1,2 +1,7 @@
 {pointerfile}
-##this is currently empty
+##this is currently not so important
+{getURL="https://91.98.117.241/hexagon/LUNARos/raw/branch/main/"}
+{pointers
+  pointer1="somefile";
+  pointer2="somefile";
+}
